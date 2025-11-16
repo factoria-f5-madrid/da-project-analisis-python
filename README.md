@@ -1,4 +1,4 @@
-# Limpieza de datos en Notebook — Proyecto inicial (Kiva Crowdfunding)
+# Procesamiento y limpieza de datos con Python
 
 ## 📝 Descripción del proyecto
 
@@ -66,11 +66,11 @@ El proyecto es **Individual**.
 - [ ] Analizar y tratar valores faltantes: imputación simple, eliminación o marca explícita
 - [ ] Normalizar textos (país, moneda, categorías): trim, lower, mapeos
 - [ ] Corregir formatos numéricos (coma/punto, tipos numéricos)
-- [ ] Detectar y gestionar outliers razonables (documentar por qué se quitan o conservan)**
+- [ ] Detectar y gestionar outliers razonables (documentar por qué se quitan o conservan)
 - [ ] Crear columnas derivadas útiles (ej.: año, mes, duración, ratio)
-- [ ] Codificar variables categóricas si procede (labels / one-hot solo si es necesario)**
-- [ ] Guardar snapshot del raw original y del dataset final**
-- [ ] Añadir pruebas sencillas: conteos esperados, no-null en campos clave, unicidad**
+- [ ] Codificar variables categóricas si procede (labels / one-hot solo si es necesario)
+- [ ] Guardar snapshot del raw original y del dataset final
+- [ ] Añadir pruebas sencillas: conteos esperados, no-null en campos clave, unicidad
 
 ## 📈 Buenas prácticas y criterios de calidad
 
@@ -84,5 +84,4 @@ El proyecto es **Individual**.
 - Configurar y automatizar su entorno de trabajo.
 - Gestionar equipos técnicos
 - Evaluar Conjuntos de datos
-- Desarrollar interfaces dinámicas**
 
