@@ -34,12 +34,12 @@ Para este proyecto, trabajaremos con el dataset **"Data Science for Good: Kiva C
 El proyecto es **Individual**.
 
 1. Será necesario entregar un **Notebook** (.ipynb) bien organizado y con comentarios explicativos.
-2. Será necesario entregar el **Dataset limpio** exportado (CSV o Parquet).
+2. Será necesario definir una línea de código donde se exporte el dataset en formato CSV o Parquet.
 3. Será necesario entregar un **README** con:
    - Pasos ejecutados
    - Cómo ejecutar el notebook
    - Resumen de decisiones de limpieza
-4. **Repositorio** con todo lo anterior.
+4. **Repositorio** con todo lo anterior menos el dataset sea el final o el inicial (siguiendo las buenas prácticas).
 
 ## ⏳ Plazo de Entrega
 
